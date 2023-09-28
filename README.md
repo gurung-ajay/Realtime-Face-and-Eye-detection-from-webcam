@@ -1,1 +1,1 @@
-# Realtime-Face-and-Eye-detection-from-webcam
+# Realtime-Face-and-Eye-detection-from-live-webcam
